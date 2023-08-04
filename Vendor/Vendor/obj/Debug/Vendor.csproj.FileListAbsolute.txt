@@ -1,0 +1,8 @@
+D:\simplilearn\day-21\Vendor\Vendor\bin\Debug\Vendor.exe.config
+D:\simplilearn\day-21\Vendor\Vendor\bin\Debug\Vendor.exe
+D:\simplilearn\day-21\Vendor\Vendor\bin\Debug\Vendor.pdb
+D:\simplilearn\day-21\Vendor\Vendor\obj\Debug\Vendor.csproj.AssemblyReference.cache
+D:\simplilearn\day-21\Vendor\Vendor\obj\Debug\Vendor.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-21\Vendor\Vendor\obj\Debug\Vendor.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-21\Vendor\Vendor\obj\Debug\Vendor.exe
+D:\simplilearn\day-21\Vendor\Vendor\obj\Debug\Vendor.pdb

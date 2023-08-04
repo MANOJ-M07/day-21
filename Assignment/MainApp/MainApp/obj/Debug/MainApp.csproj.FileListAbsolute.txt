@@ -1,0 +1,11 @@
+D:\simplilearn\day-21\Assignment\MainApp\MainApp\bin\Debug\MainApp.exe.config
+D:\simplilearn\day-21\Assignment\MainApp\MainApp\bin\Debug\MainApp.exe
+D:\simplilearn\day-21\Assignment\MainApp\MainApp\bin\Debug\MainApp.pdb
+D:\simplilearn\day-21\Assignment\MainApp\MainApp\bin\Debug\MySharedLibrary.dll
+D:\simplilearn\day-21\Assignment\MainApp\MainApp\bin\Debug\MySharedLibrary.pdb
+D:\simplilearn\day-21\Assignment\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+D:\simplilearn\day-21\Assignment\MainApp\MainApp\obj\Debug\MainApp.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-21\Assignment\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-21\Assignment\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+D:\simplilearn\day-21\Assignment\MainApp\MainApp\obj\Debug\MainApp.exe
+D:\simplilearn\day-21\Assignment\MainApp\MainApp\obj\Debug\MainApp.pdb
